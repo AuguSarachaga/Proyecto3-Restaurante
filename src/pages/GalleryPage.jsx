@@ -1,7 +1,10 @@
+import NavbarC from "../components/NavbarC"
 
 const GalleryPage = () => {
   return (
-    <div>GalleryPage</div>
+    <>
+    <NavbarC />
+    </>
   )
 }
 
