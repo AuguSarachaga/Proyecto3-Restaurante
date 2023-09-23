@@ -1,8 +1,12 @@
+import NavbarC from "../components/NavbarC"
 
 
 const AboutPage = () => {
   return (
-    <div>AboutPage</div>
+    <>
+    <NavbarC />
+    
+    </>
   )
 }
 

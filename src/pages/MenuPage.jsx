@@ -1,7 +1,11 @@
+import NavbarC from "../components/NavbarC"
 
 const MenuPage = () => {
   return (
-    <div>MenuPage</div>
+    <>
+    <NavbarC />
+    
+    </>
   )
 }
 

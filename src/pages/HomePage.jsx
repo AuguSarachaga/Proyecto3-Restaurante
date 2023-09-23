@@ -1,8 +1,12 @@
+import NavbarC from "../components/NavbarC"
 
 
 const HomePage = () => {
   return (
-    <div>HomePage</div>
+    <>
+    <NavbarC /> 
+   
+    </>
   )
 }
 
